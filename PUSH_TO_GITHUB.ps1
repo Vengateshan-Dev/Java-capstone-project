@@ -1,5 +1,5 @@
 $ErrorActionPreference = 'Stop'
-$RepositoryUrl = 'https://github.com/NAVEENKUMAR-T-GIT-28/Java-capstone-project.git'
+$RepositoryUrl = 'https://github.com/Vengateshan-Dev/Java-capstone-project.git'
 $TargetBranch = 'Java-capstone-project'
 
 if (-not (Get-Command git -ErrorAction SilentlyContinue)) {
